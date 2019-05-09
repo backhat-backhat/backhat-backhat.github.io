@@ -1,0 +1,26 @@
+name: BlackHat-Blog
+description: Share Codes and Ideas
+meta_description: "c & cpp"
+email: blackhat.c@gmail.com
+
+markdown: kramdown
+#highlighter: pygments
+#github does not support pygments now, change to rouge
+highlighter: rouge
+logo: false
+paginate: 10
+baseurl: /
+#domain_name: 'wuzhenyu.com.cn'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url: 'http://blackhat-blackhat.github.io'
+author: 'Blackhat'
+
+# sidebar settings
+sidebar: true
+sidebar-about-description: "coding is pemo"
+sidebar-avatar:
+
+# SNS settings
+github_username: blackhat
