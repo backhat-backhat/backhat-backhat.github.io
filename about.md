@@ -3,6 +3,7 @@ layout: page
 title: 关于我
 ---
 <br>
+
 ## My Manifesto
 1. Code is like a poem   <br>
 2. Believe in code efficiency   <br>
@@ -10,10 +11,10 @@ title: 关于我
 4. Optimize for joy   <br>
 
 ## Email: 
-backhat.c@gmail.com 　　 <br>
+	backhat.c@gmail.com 　　 <br>
 
 ## Language
-c / c++, 其他 <br>
+	c / c++, 其他 <br>
 
 ## Focus
 1. 做过xxx。 <br>
