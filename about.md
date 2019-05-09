@@ -2,13 +2,12 @@
 layout: page
 title: 关于我
 ---
-<br>
-<br>
 
 ## My Manifesto
 1. Code is like a poem   <br>
 2. Believe in code efficiency   <br>
 3. Against complexity   <br>
+4. Optimize for joy   <br>
 
 ## Email: 
 backhat.c@gmail.com 　　 <br>
