@@ -11,10 +11,10 @@ title: 关于我
 4. Optimize for joy   <br>
 
 ## Email: 
-	backhat.c@gmail.com 　　 <br>
+&ensp;backhat.c@gmail.com 　　 <br>
 
 ## Language
-	c / c++, 其他 <br>
+&ensp;c / c++, 其他 <br>
 
 ## Focus
 1. 做过xxx。 <br>
