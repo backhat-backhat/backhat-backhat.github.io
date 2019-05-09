@@ -1,7 +1,7 @@
-name: BlackHat-Blog
-description: Share Codes and Ideas
-meta_description: "c & cpp"
-email: blackhat.c@gmail.com
+name: BlackHat
+description: Code is like a poem
+meta_description: "believe in code efficiency & against complexity"
+email: backhat.c@gmail.com
 
 markdown: kramdown
 #highlighter: pygments
@@ -14,13 +14,13 @@ baseurl: /
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: 'http://blackhat-blackhat.github.io'
+url: 'http://backhat-backhat.github.io'
 author: 'Blackhat'
 
 # sidebar settings
 sidebar: true
-sidebar-about-description: "coding is pemo"
+sidebar-about-description: "backhat"
 sidebar-avatar:
 
 # SNS settings
-github_username: blackhat
+github_username: backhat-backhat
